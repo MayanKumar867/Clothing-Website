@@ -3,7 +3,7 @@ import Title from '../component/Title'
 import { shopDataContext } from '../context/ShopContext'
 import { useNavigate } from 'react-router-dom'
 import { RiDeleteBin6Line } from "react-icons/ri";
-import CalculateCart from '../component/calculateCart';
+import CalculateCart from '../component/CalculateCart';
 
 const Cart = () => {
 
