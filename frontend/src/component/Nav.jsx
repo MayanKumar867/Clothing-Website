@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-// import logo from '../assets/logo.png'
 import logo from '../assets/Brand-logo.png'
 import { IoSearchCircleOutline } from "react-icons/io5";
 import { FaCircleUser, FaS } from "react-icons/fa6";
@@ -8,7 +7,7 @@ import { userDataContext } from '../context/UserContext';
 import { IoSearchCircleSharp } from "react-icons/io5";
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { authDataContext } from '../context/authContext';
+import { authDataContext } from '../context/AuthContext';
 import { IoMdHome } from "react-icons/io";
 import { HiOutlineCollection } from "react-icons/hi";
 import { MdContacts } from "react-icons/md";
