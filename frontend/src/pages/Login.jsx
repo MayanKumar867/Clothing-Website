@@ -94,7 +94,7 @@ const Login = () => {
       {/* Logo */}
       <div className='w-full h-[80px] flex items-center justify-start px-[30px] gap-[10px] cursor-pointer' onClick={() => navigate("/")}>
         <img className='w-[40px]' src={Logo} alt="" />
-        <h1 className='text-[20px] font-bold text-gray-700'>Riyu's Fashion</h1>
+        <h1 className='text-[20px] font-bold text-gray-700'>VSR Fashion</h1>
       </div>
 
       {/* Title */}
