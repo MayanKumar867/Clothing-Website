@@ -7,7 +7,7 @@ export const authDataContext = createContext()
 
 
 const AuthContext = ({children}) => {
-    let serverUrl = "http://localhost:8000"
+    let serverUrl = "https://clothing-website-backend-frdf.onrender.com"
     let value = {
     serverUrl
     }
