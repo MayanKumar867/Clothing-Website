@@ -10,7 +10,7 @@ const Order = () => {
 
     const loadOrderData = async () => {
         try {
-            const result = await axios.post(serverUrl + '/api/order/userorder', {}, { withCredentials: true })
+            const result = await axios.post(serverUrl + '/api/order/list', {}, { withCredentials: true })
             if (result.data) {
                 let allOrdersItem = []
                 result.data.map((order) => {              // Loop through all orders of user
