@@ -95,13 +95,13 @@ const Registration = () => {
       {/* Header with Logo */}
       <div className='w-full h-20 flex items-center justify-start px-6 gap-3 cursor-pointer' onClick={() => navigate("/")}>
         <img className='w-10' src={Logo} alt="logo" />
-        <h1 className='text-lg font-bold'>Riyu's Fashion</h1>
+        <h1 className='text-lg font-bold'>VSR Fashion</h1>
       </div>
 
       {/* Title Section */}
       <div className='w-full mt-6 flex items-center justify-center flex-col gap-2'>
         <span className='text-2xl font-bold'>Create Your Account</span>
-        <span className='text-sm text-gray-600'>Join Riyu's Fashion & start shopping in style ✨</span>
+        <span className='text-sm text-gray-600'>Join VSR Fashion & start shopping in style ✨</span>
       </div>
 
       {/* Card */}
