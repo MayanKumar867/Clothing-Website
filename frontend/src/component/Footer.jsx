@@ -7,7 +7,7 @@ export default function Footer() {
         
         {/* Brand Intro */}
         <div>
-          <h2 className="text-2xl font-bold text-black">Riyu’s Fashion</h2>
+          <h2 className="text-2xl font-bold text-black">VSR Fashion</h2>
           <p className="mt-4 text-gray-700 leading-relaxed">
             Crafted with passion by VSR, a fashion designer who believes 
             every outfit tells a story. Discover pieces that inspire 
