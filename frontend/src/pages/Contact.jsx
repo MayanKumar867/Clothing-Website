@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div className="w-full mt-4 bg-gradient-to-b from-[#ffe0f0] via-[#eafff6] to-[#ffffff]  py-16 px-6 md:px-20">
       <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-12">
-        📞 Get in Touch with <span className="text-pink-500">Riya’s Fashion</span>
+        📞 Get in Touch with <span className="text-pink-500">VSR Fashion</span>
       </h2>
 
       <div className="grid md:grid-cols-2 gap-10 items-center">
@@ -24,19 +24,19 @@ const Contact = () => {
               Kolkata, West Bengal, India
             </p>
             <p className="mt-2">
-              📱 <span className="font-medium">+91-9876543210</span>
+              📱 <span className="font-medium">+91-9376243210</span>
             </p>
             <p>
               ✉️ <a href="mailto:contact@riyasfashion.com" className="text-pink-500 hover:underline">
-                contact@riyasfashion.com
+                contact@vsrfashion.com
               </a>
             </p>
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-gray-900">Careers at Riya’s Fashion</h3>
+            <h3 className="text-xl font-semibold text-gray-900">Careers at VSR Fashion</h3>
             <p className="mt-2">
-              Passionate about fashion? Join our growing team and be part of Riya’s design journey.
+              Passionate about fashion? Join our growing team and be part of VSR design journey.
             </p>
             <button className="mt-4 mb-10 px-6 py-3 bg-black text-white font-semibold rounded-xl shadow-md hover:bg-gray-900 transition">
               Explore Jobs
