@@ -9,7 +9,7 @@ export default function Footer() {
         <div>
           <h2 className="text-2xl font-bold text-black">Riyu’s Fashion</h2>
           <p className="mt-4 text-gray-700 leading-relaxed">
-            Crafted with passion by Riya, a fashion designer who believes 
+            Crafted with passion by VSR, a fashion designer who believes 
             every outfit tells a story. Discover pieces that inspire 
             confidence, elegance, and your true vibe.
           </p>
@@ -20,7 +20,7 @@ export default function Footer() {
           <h3 className="text-lg font-bold text-black mb-4">Quick Links</h3>
           <ul className="space-y-2 text-gray-700">
             <li><a href="#" className="hover:text-black">Shop</a></li>
-            <li><a href="#" className="hover:text-black">About Riya</a></li>
+            <li><a href="#" className="hover:text-black">About </a></li>
             <li><a href="#" className="hover:text-black">Contact</a></li>
             <li><a href="#" className="hover:text-black">Policies</a></li>
           </ul>
@@ -49,8 +49,8 @@ export default function Footer() {
 
       {/* Bottom bar */}
       <div className="border-t border-gray-300 mt-10 pt-6 text-center text-gray-600 text-sm">
-        <p>© {new Date().getFullYear()} Riyu’s Fashion. All rights reserved.</p>
-        <p className="mt-2 text-gray-500 italic">Designed with love by Riya 💖</p>
+        <p>© {new Date().getFullYear()} VSR Fashion. All rights reserved.</p>
+        <p className="mt-2 text-gray-500 italic">Designed with love by VSR 💖</p>
       </div>
     </footer>
   );
