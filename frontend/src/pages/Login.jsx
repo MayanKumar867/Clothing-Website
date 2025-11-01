@@ -100,7 +100,7 @@ const Login = () => {
       {/* Title */}
       <div className='w-full h-[100px] flex items-center justify-center flex-col gap-[5px]'>
         <span className='text-[28px] font-bold text-gray-800'>Welcome Back 👋</span>
-        <span className='text-[16px] text-gray-600'>Login to continue shopping with Riyu's Fashion</span>
+        <span className='text-[16px] text-gray-600'>Login to continue shopping with VSR Fashion</span>
       </div>
 
       {/* Card */}
