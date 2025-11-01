@@ -8,7 +8,7 @@ const Subscribe = () => {
         ✨ Subscribe & Get <span className="text-pink-500">20% Off</span>
       </h2>
       <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-        Be the first to explore Riya’s exclusive designs, latest collections, and special offers.
+        Be the first to explore VSR exclusive designs, latest collections, and special offers.
         Join our fashion family today!
       </p>
 
